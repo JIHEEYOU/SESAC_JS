@@ -1,0 +1,6 @@
+git add .
+git commit -m "제목"
+git push 
+
+//git push할때 branch가 안올라 가 있으면  
+//git push --set-upstream origin <branch>로 서버쪽에 branch를 생성하고 올려야한다
