@@ -12,4 +12,4 @@ git blame <파일명>
 git annotate <파일명>
 
 
-revert
+revert(local repository -> staging  커밋->add)
