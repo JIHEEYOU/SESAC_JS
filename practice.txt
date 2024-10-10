@@ -1,1 +1,22 @@
+
 안녕하세요 유지희입니다.
+
+practice
+
+C:\Users\nss26\OneDrive\Documents\sesac\SESAC_JS>git add .
+
+C:\Users\nss26\OneDrive\Documents\sesac\SESAC_JS>git commit -m "delete"
+[feature1 b59a622] delete
+ 1 file changed, 19 deletions(-)
+ delete mode 100644 practice.txt
+
+C:\Users\nss26\OneDrive\Documents\sesac\SESAC_JS>git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 216 bytes | 216.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/JIHEEYOU/SESAC_JS.git
+   0605381..b59a622  feature1 -> feature1
