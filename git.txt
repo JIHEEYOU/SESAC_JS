@@ -12,4 +12,6 @@ git blame <파일명>
 git annotate <파일명>
 
 
+
 revert
+commit -> add
