@@ -7,5 +7,9 @@ git push
 
 bug->issue, blame -> annotate
 
-git git blame <파일명>
+ 
+git blame <파일명>
 git annotate <파일명>
+
+
+revert
