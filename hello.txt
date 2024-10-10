@@ -3,4 +3,5 @@ goodbye git
 see you again
 branch check
 
-JiheeYou
+안녕하세요 나상현입니다
+안녕하세요 유지희입니다
